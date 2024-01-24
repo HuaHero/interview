@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T10:08:30.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="sd9YNE1lTJSL7HXIV5qX" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T10:10:27.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="DnWRUoNWKbIWODaFwUJv" version="23.0.0" type="github">
   <diagram name="第 1 页" id="c6XIci1Z70mTHckqBOms">
     <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,27 @@
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-17" value="HealthProfitService&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;运营服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="640" width="340" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="883" width="410" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-19" value="HealthAdviceService&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;运营服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="103" y="898" width="340" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-20" value="Course&lt;br&gt;课程微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="97" y="963" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-21" value="Activity&lt;br&gt;活动微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="963" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-22" value="Marketing&lt;br&gt;营销微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="257" y="963" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-23" value="Operation&lt;br&gt;运营微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="343" y="963" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-24" value="Walkup&lt;br&gt;蓝星环游微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="417" y="963" width="66" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
