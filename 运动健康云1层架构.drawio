@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T10:04:13.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="erCtg_enFuAcFeoRmD3a" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T10:08:30.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="sd9YNE1lTJSL7HXIV5qX" version="23.0.0" type="github">
   <diagram name="第 1 页" id="c6XIci1Z70mTHckqBOms">
     <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="410" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Q7i9cyMPgHQrG95dPjTk-8" value="HealthOperationService&lt;br&gt;服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="210" width="130" height="60" as="geometry" />
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-9" value="HealthOperationService&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;运营服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="375" width="340" height="35" as="geometry" />
@@ -33,6 +33,15 @@
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-14" value="Walkup&lt;br&gt;蓝星环游微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="414" y="440" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-15" value="Social&lt;br&gt;社交微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="94" y="710" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-16" value="Push&lt;br&gt;消息通知微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="188" y="710" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-17" value="HealthProfitService&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;运营服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="640" width="340" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
