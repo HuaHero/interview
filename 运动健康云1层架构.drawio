@@ -1,20 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T10:13:01.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Ie5abNbWjqKejNYq6ezI" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T10:17:02.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="F00QBJkjbdHxKBcWezdP" version="23.0.0" type="github">
   <diagram name="第 1 页" id="c6XIci1Z70mTHckqBOms">
     <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q7i9cyMPgHQrG95dPjTk-3" value="HealthAdviceService&lt;br&gt;建议服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Q7i9cyMPgHQrG95dPjTk-4" value="HealthDataService&lt;br&gt;数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="410" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="630" width="410" height="200" as="geometry" />
+          <mxGeometry x="80" y="630" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-9" value="HealthOperationService&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;运营服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="375" width="340" height="35" as="geometry" />
@@ -40,23 +34,26 @@
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-16" value="Push&lt;br&gt;消息通知微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="188" y="710" width="66" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="Q7i9cyMPgHQrG95dPjTk-17" value="HealthProfitService&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;运营服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="640" width="340" height="35" as="geometry" />
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-17" value="HealthProfitService&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;增值服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="640" width="210" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="883" width="267" height="187" as="geometry" />
+          <mxGeometry x="83" y="883" width="277" height="187" as="geometry" />
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-19" value="HealthAdviceService&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;运营服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="103" y="898" width="217" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-20" value="Course&lt;br&gt;课程微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="97" y="963" width="66" height="66" as="geometry" />
+          <mxGeometry x="100" y="963" width="77" height="77" as="geometry" />
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-21" value="SleepAudio&lt;br&gt;舒眠音频微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180" y="963" width="66" height="66" as="geometry" />
+          <mxGeometry x="183" y="963" width="77" height="77" as="geometry" />
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-22" value="Recommend推荐（和搜索）微服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="257" y="963" width="73" height="73" as="geometry" />
+          <mxGeometry x="270" y="962" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-27" value="…待扩展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="728" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
