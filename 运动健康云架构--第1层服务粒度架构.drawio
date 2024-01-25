@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T09:51:09.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="23.0.0" etag="3T7We07_EDEcqHa6d-hF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T09:58:19.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="7hs9DwXQkyGMbnvqG8z6" version="23.0.0" type="github">
   <diagram name="第 1 页" id="JbuPutZytbCK25REN7PR">
-    <mxGraphModel>
+    <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YvnnRUKu41tw3babr-Li-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="650" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-2" value="华为账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-3" value="HealthDataService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-4" value="HealthOperationService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-5" value="HealthAdviceService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-6" value="HealthConnectService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="403" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-7" value="HealthProfitService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-8" value="CloudMap&lt;br&gt;(服务注册与发现、中间件注册与发现)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
