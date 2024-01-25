@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T06:29:32.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="m8irsfzI2pGaLHc9nfne" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T06:30:08.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="tyNwlq7bqSKtDfWAp9xu" version="23.0.0" type="github">
   <diagram name="第 1 页" id="FTNzHiMMP3t1Fl-8KOQk">
     <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,12 @@
         </mxCell>
         <mxCell id="szXA8x6k2kYRS7tu7ofH-39" value="HuaweiResearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="611" y="238" width="99" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-42" value="平台层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="730" y="269.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-43" value="设备层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="730" y="426" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
