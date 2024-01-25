@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T13:09:44.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="NU6lBUSNo5viqtEm6SYe" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T13:11:45.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="8fgVKK2PjWi7iAgiheL5" version="23.0.0" type="github">
   <diagram name="第 1 页" id="JbuPutZytbCK25REN7PR">
     <mxGraphModel dx="946" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -509,6 +509,12 @@
             <mxPoint x="700" y="331" as="sourcePoint" />
             <mxPoint x="750" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YvnnRUKu41tw3babr-Li-160" target="YvnnRUKu41tw3babr-Li-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-160" value="Operater" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/writer.svg;" vertex="1" parent="1">
+          <mxGeometry x="181" y="520" width="48" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
