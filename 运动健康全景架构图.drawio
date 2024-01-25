@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T04:13:56.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FGG6Ruj2zAsWTQkgAHii" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T04:19:40.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="19YJznwqsnrTOX-ZKyb8" version="23.0.0" type="github">
   <diagram name="第 1 页" id="FTNzHiMMP3t1Fl-8KOQk">
     <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,24 @@
         </mxCell>
         <mxCell id="szXA8x6k2kYRS7tu7ofH-25" value="Push&lt;br&gt;Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="537" y="251" width="80" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="70" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-27" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="73" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="70" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-30" value="HarmonyOS Health App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-31" value="iOS &lt;br&gt;Health App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-32" value="AndroidOS&lt;br&gt;Health App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
