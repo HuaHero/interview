@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T13:13:04.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="jZJ07zrA4_z0pYY_BmNt" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T13:16:41.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="mIDTwjNqwslM-4iJ9D_i" version="23.0.0" type="github">
   <diagram name="第 1 页" id="JbuPutZytbCK25REN7PR">
     <mxGraphModel dx="946" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -524,6 +524,33 @@
         </mxCell>
         <mxCell id="YvnnRUKu41tw3babr-Li-162" value="SRE/Developer" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="900" y="340" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-167" value="Notes:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="573" y="537" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-168" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="YvnnRUKu41tw3babr-Li-167">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="643" y="587" as="sourcePoint" />
+            <mxPoint x="693" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-169" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="697" y="566" as="sourcePoint" />
+            <mxPoint x="710" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-170" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="633" y="590" as="sourcePoint" />
+            <mxPoint x="713" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-171" value="means &lt;b style=&quot;font-size: 16px;&quot;&gt;push &lt;/b&gt;operation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="550" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-172" value="means &lt;b style=&quot;font-size: 16px;&quot;&gt;call&lt;/b&gt; operation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="580" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
