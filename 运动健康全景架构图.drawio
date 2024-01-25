@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T04:11:19.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Vi5sBSlGdxyBn5mlpXcC" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T04:13:56.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FGG6Ruj2zAsWTQkgAHii" version="23.0.0" type="github">
   <diagram name="第 1 页" id="FTNzHiMMP3t1Fl-8KOQk">
     <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="280" y="243" width="60" height="41" as="geometry" />
         </mxCell>
         <mxCell id="szXA8x6k2kYRS7tu7ofH-16" value="Wear&lt;br&gt;Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="373" y="243" width="120" height="100" as="geometry" />
+          <mxGeometry x="358" y="250" width="82" height="93" as="geometry" />
         </mxCell>
         <mxCell id="szXA8x6k2kYRS7tu7ofH-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="490" width="520" height="60" as="geometry" />
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="szXA8x6k2kYRS7tu7ofH-22" value="原部分支持的荣耀穿戴设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="500" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-24" value="Health&lt;br&gt;Connect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="80" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="szXA8x6k2kYRS7tu7ofH-25" value="Push&lt;br&gt;Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537" y="251" width="80" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
