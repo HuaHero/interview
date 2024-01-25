@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T06:34:59.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="arb9R41Ls0MlJmjVG6qe" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T06:36:19.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="tg-9fBjsxKMtC7iXIzsz" version="23.0.0" type="github">
   <diagram name="第 1 页" id="c6XIci1Z70mTHckqBOms">
     <mxGraphModel dx="946" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-21" value="SleepAudio&lt;br style=&quot;font-size: 14px;&quot;&gt;舒眠音频微服务" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="183" y="963" width="77" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="Q7i9cyMPgHQrG95dPjTk-22" value="Recommend推荐（和搜索）微服务" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="962" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;…待扩展&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="728" width="80" height="30" as="geometry" />
@@ -102,6 +99,9 @@
         </mxCell>
         <mxCell id="Q7i9cyMPgHQrG95dPjTk-37" value="PlanService&lt;br&gt;计划微服务" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="360" y="962" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7i9cyMPgHQrG95dPjTk-38" value="Recommend推荐（和搜索）微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="963" width="80" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
