@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T13:16:54.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TX76cf2A4jwAfH35r139" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-26T01:47:48.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="L-4GhBdgABA2_50V5wqY" version="23.0.0" type="github">
   <diagram name="第 1 页" id="JbuPutZytbCK25REN7PR">
     <mxGraphModel dx="946" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YvnnRUKu41tw3babr-Li-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="10" y="360" width="670" height="130" as="geometry" />
+          <mxGeometry x="10" y="360" width="670" height="170" as="geometry" />
         </mxCell>
         <mxCell id="YvnnRUKu41tw3babr-Li-2" value="华为账号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="716" y="152" width="120" height="50" as="geometry" />
@@ -13,8 +13,19 @@
         <mxCell id="YvnnRUKu41tw3babr-Li-3" value="HealthDataService" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="20" y="413" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YvnnRUKu41tw3babr-Li-4" target="YvnnRUKu41tw3babr-Li-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="480" />
+              <mxPoint x="110" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YvnnRUKu41tw3babr-Li-4" value="HealthOperationService" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="152" y="413" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YvnnRUKu41tw3babr-Li-5" target="YvnnRUKu41tw3babr-Li-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YvnnRUKu41tw3babr-Li-5" value="HealthAdviceService" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="290" y="413" width="120" height="60" as="geometry" />
@@ -514,7 +525,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YvnnRUKu41tw3babr-Li-160" value="Operater" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/writer.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="181" y="520" width="48" height="50" as="geometry" />
+          <mxGeometry x="181" y="552" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YvnnRUKu41tw3babr-Li-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="YvnnRUKu41tw3babr-Li-162" target="YvnnRUKu41tw3babr-Li-82">
           <mxGeometry relative="1" as="geometry" />
@@ -551,6 +562,14 @@
         </mxCell>
         <mxCell id="YvnnRUKu41tw3babr-Li-172" value="means &lt;b style=&quot;font-size: 16px;&quot;&gt;call&lt;/b&gt; operation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="720" y="580" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvnnRUKu41tw3babr-Li-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.142;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YvnnRUKu41tw3babr-Li-7" target="YvnnRUKu41tw3babr-Li-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="510" />
+              <mxPoint x="37" y="510" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
