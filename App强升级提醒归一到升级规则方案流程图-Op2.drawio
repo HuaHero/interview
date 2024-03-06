@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T09:46:19.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Iw_mOvJVTswM5Bcfkben" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T09:46:28.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="WrkcMz-YRyIi4vX8NYtC" version="24.0.1" type="github">
   <diagram name="第 1 页" id="SnEiPAsqYIaOKTm-W5p2">
     <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         <mxCell id="nd6yBEO4HvQz4fjfClLw-52" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="440" y="978" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HojlaQrTnK4gudY1Q9k8-1" value="【App侧】获取设备信息（/LAPI/V1.0/System/&lt;div&gt;Device/DeviceInfo）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HojlaQrTnK4gudY1Q9k8-1" value="【App侧】获取设备信息（/LAPI/V1.0/System/&lt;div&gt;Device/DeviceInfo）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="224" y="358" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
