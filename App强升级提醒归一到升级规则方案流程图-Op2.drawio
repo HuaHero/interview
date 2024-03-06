@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T10:36:40.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="9s1-aUZtrlTpE5RMJpGR" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T10:48:36.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="C8gn67DfXFSCbkXiUw1P" version="24.0.1" type="github">
   <diagram name="第 1 页" id="SnEiPAsqYIaOKTm-W5p2">
     <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,20 +14,20 @@
           <mxGeometry x="236" y="251" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-9" value="【App侧】使用云侧新接口获取云升级检测结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="259" y="470" width="120" height="70" as="geometry" />
+          <mxGeometry x="259" y="466" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;strokeWidth=2;" parent="1" target="nd6yBEO4HvQz4fjfClLw-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="319.5" y="433" as="sourcePoint" />
+            <mxPoint x="319.5" y="429" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" parent="1" source="nd6yBEO4HvQz4fjfClLw-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321.5" y="568" as="targetPoint" />
+            <mxPoint x="321.5" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-24" value="【App侧】根据云升级检测结果中相应的强提醒设置以及App是否是重启或切换云账号场景，进行相应强提醒" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="231" y="570" width="180" height="70" as="geometry" />
+          <mxGeometry x="231" y="566" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" parent="1" source="nd6yBEO4HvQz4fjfClLw-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -36,30 +36,30 @@
         </mxCell>
         <mxCell id="cLWT3HPXuuumuVamhl0J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="754" as="sourcePoint" />
-            <mxPoint x="322" y="790" as="targetPoint" />
+            <mxPoint x="320" y="750" as="sourcePoint" />
+            <mxPoint x="322" y="786" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-44" value="【App侧】用户&lt;div style=&quot;font-size: 14px;&quot;&gt;确认升级&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="249" y="682" width="144" height="72" as="geometry" />
+          <mxGeometry x="249" y="678" width="144" height="72" as="geometry" />
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-45" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="269" y="880" width="100" height="40" as="geometry" />
+          <mxGeometry x="269" y="876" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-46" value="【App侧】后台静默升级" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="270.5" y="790" width="105" height="58" as="geometry" />
+          <mxGeometry x="270.5" y="786" width="105" height="58" as="geometry" />
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" parent="1" source="nd6yBEO4HvQz4fjfClLw-24" target="nd6yBEO4HvQz4fjfClLw-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-51" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="330" y="754" width="30" height="30" as="geometry" />
+          <mxGeometry x="330" y="750" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nd6yBEO4HvQz4fjfClLw-52" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="190" y="760" width="30" height="30" as="geometry" />
+          <mxGeometry x="190" y="756" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HojlaQrTnK4gudY1Q9k8-1" value="【App侧】获取设备信息（/LAPI/V1.0/System/&lt;div style=&quot;font-size: 14px;&quot;&gt;Device/DeviceInfo）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="241" y="358" width="160" height="70" as="geometry" />
+        <mxCell id="HojlaQrTnK4gudY1Q9k8-1" value="【App侧】获取设备或通道信息&lt;div&gt;（/LAPI/V1.0/System/&lt;span style=&quot;background-color: initial;&quot;&gt;DeviceInfo;&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;/LAPI/V1.0/Channels/&amp;lt;ID&amp;gt;/System/DeviceInfo&amp;gt;）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="166" y="358" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cLWT3HPXuuumuVamhl0J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="nd6yBEO4HvQz4fjfClLw-46" target="nd6yBEO4HvQz4fjfClLw-45">
           <mxGeometry relative="1" as="geometry" />
